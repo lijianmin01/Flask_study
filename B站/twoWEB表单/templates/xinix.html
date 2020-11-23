@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {%if username=="root" %}
+    账户：{{username}} <br>
+    密码： {{password}} <br>
+    <h5>登陆成功</h5>
+    {% else %}
+     <h5>登录失败</h5>
+    账户：{{username}} <br>
+    密码： {{password}} <br>
+    {% endif %}
+</body>
+</html>

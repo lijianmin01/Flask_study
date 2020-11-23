@@ -1,0 +1,22 @@
+
+{{my_list}} <br>
+<hr>
+<h3>循环打印</h3>
+<!--{%  for num in mylist %}-->
+<!--    {{ num }}-->
+<!--{% endfor %}-->
+<h3>大于3</h3>
+{%  for num in my_list %}
+    {% if num > 3 %}
+        {{ num }} <br>
+    {% endif %}
+{% endfor %}
+<hr>
+<h6>过滤器</h6>
+{# 过滤器 #}
+<h8>大写</h8>
+{{my_str | upper}}<br>
+<h8>字符反转</h8>
+{{my_str | reverse}}<br>
+<h8>过滤器链式调用</h8>
+{{my_str | upper|reverse}}<br>
