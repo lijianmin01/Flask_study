@@ -1,23 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="48b8233e-03a3-46b2-a39b-5027a55ed955" name="Default Changelist" comment="" />
+    <list default="true" id="48b8233e-03a3-46b2-a39b-5027a55ed955" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/112302/HTTPf方法/HTTP方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/112302/JSON格式的API.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/112302/URL构建/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/112302/会话.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/112302/路由/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/153定义和操作数据库/连接数据库.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask+Web/第三章/3.2使用Flask-Bootstrap/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask+Web/第三章/3.4表单类/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask+Web/第三章/3.4表单类/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask+Web/第三章/3.4表单类/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask+Web/第三章/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask+Web/第三章/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask+Web/第三章/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask+Web/第三章/templates/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask+Web/第三章/templates/衍生模板.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/flask-tutorial/flaskr/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/flask-tutorial/flaskr/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/flask-tutorial/flaskr/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kfUG7A2qV1yW0Qf6HzxWey5HYG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Flask+Web/第三章/3.4表单类/templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\Flask_study\Flask+Web\第三章\3.4表单类\templates" />
+      <recent name="E:\github\Flask_study\Flask+Web\第三章\3.2使用Flask-Bootstrap" />
+      <recent name="E:\github\Flask_study\Flask+Web\第三章" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.__init__">
+    <configuration name="会话" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/112302" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/112302/会话.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="JSON格式的API" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/112302" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/112302/JSON格式的API.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/flask-tutorial/flaskr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projects/flask-tutorial/flaskr/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects/flask-tutorial/flaskr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projects/flask-tutorial/flaskr/db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/112302/URL构建" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/112302/URL构建/demo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.db" />
+        <item itemvalue="Python.会话" />
+        <item itemvalue="Python.JSON格式的API" />
+        <item itemvalue="Python.demo1 (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -30,10 +204,37 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="738" y="125" key="FileChooserDialogImpl" timestamp="1606091267201">
       <screen x="74" y="0" width="1292" height="768" />
     </state>
     <state x="738" y="125" key="FileChooserDialogImpl/74.0.1292.768@74.0.1292.768" timestamp="1606091267201" />
+    <state width="1271" height="220" key="GridCell.Tab.0.bottom" timestamp="1606121084927">
+      <screen x="74" y="0" width="1292" height="768" />
+    </state>
+    <state width="1271" height="220" key="GridCell.Tab.0.bottom/74.0.1292.768@74.0.1292.768" timestamp="1606121084927" />
+    <state width="1271" height="220" key="GridCell.Tab.0.center" timestamp="1606121084927">
+      <screen x="74" y="0" width="1292" height="768" />
+    </state>
+    <state width="1271" height="220" key="GridCell.Tab.0.center/74.0.1292.768@74.0.1292.768" timestamp="1606121084927" />
+    <state width="1271" height="220" key="GridCell.Tab.0.left" timestamp="1606121084926">
+      <screen x="74" y="0" width="1292" height="768" />
+    </state>
+    <state width="1271" height="220" key="GridCell.Tab.0.left/74.0.1292.768@74.0.1292.768" timestamp="1606121084926" />
+    <state width="1271" height="220" key="GridCell.Tab.0.right" timestamp="1606121084927">
+      <screen x="74" y="0" width="1292" height="768" />
+    </state>
+    <state width="1271" height="220" key="GridCell.Tab.0.right/74.0.1292.768@74.0.1292.768" timestamp="1606121084927" />
   </component>
 </project>
