@@ -10,9 +10,14 @@
         <label>密码：</label><input type="password" name="password"><br>
         <label>确认密码</label><input type="password" name="password2"><br>
         <input type="submit" value="提交"><br>
+
+        {# 使用遍历获取闪现的消息 #}
+        {% for message in get_flashed_messages %}
+            {{ message }}
+        {% endfor %}
     </form>
     <hr>
-    <h3>登录信息 : {{message}}</h3>
+
 
 
 </body>

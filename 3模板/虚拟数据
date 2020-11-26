@@ -1,0 +1,12 @@
+user = {
+    'username':'Grey Li',
+    'bio':'A boy who loves movies and music',
+}
+
+movies = {
+    {'name':'A','year':'1988'},
+    {'name':'b','year':'1989'},
+    {'name':'c','year':'1288'},
+    {'name':'d','year':'1888'},
+    {'name':'e','year':'2988'},
+}

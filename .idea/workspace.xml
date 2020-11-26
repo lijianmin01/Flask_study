@@ -20,13 +20,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48b8233e-03a3-46b2-a39b-5027a55ed955" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B站/one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B站/one/demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B站/one/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B站/twoWEB表单/Flask_WTF_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B站/twoWEB表单/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B站/twoWEB表单/templates/xinix.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3模板/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3模板/app1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3模板/flash闪现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3模板/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3模板/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3模板/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3模板/templates/watchlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3模板/虚拟数据" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B站/threeFlash消息闪现/flash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B站/threeFlash消息闪现/flash1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B站/threeFlash消息闪现/flask2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B站/threeFlash消息闪现/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B站/twoWEB表单/Flask_WTF_demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQLstudy/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQLstudy/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQLstudy/sql.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQLstudy/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQLstudy/templates/new_note.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQLstudy/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web实战/LoginForm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web实战/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web实战/templates/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Flask_study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Flask_study.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B站/twoWEB表单/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/B站/twoWEB表单/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +61,21 @@
       </list>
     </option>
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="01edf978-4b05-44ba-8989-82559ec19a11" />
   <component name="ProjectId" id="1kfUG7A2qV1yW0Qf6HzxWey5HYG" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -53,19 +85,35 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Flask+Web/第三章/3.4表单类/templates" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../the_kecheng_files/大三上/经典模型" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\Flask_study\B站\twoWEB表单" />
       <recent name="E:\github\Flask_study\Flask+Web\第三章\3.4表单类\templates" />
       <recent name="E:\github\Flask_study\Flask+Web\第三章\3.2使用Flask-Bootstrap" />
       <recent name="E:\github\Flask_study\Flask+Web\第三章" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Flask_WTF_demo">
-    <configuration name="Flask_WTF_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Database Script.sql.sql">
+    <configuration name="sql.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/SQLstudy/sql.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Flask_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +121,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/B站/twoWEB表单" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQLstudy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B站/twoWEB表单/Flask_WTF_demo.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQLstudy/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Flask_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +143,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/after/1122/Flask 将表单数据发送到模板" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3模板" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/after/1122/Flask 将表单数据发送到模板/demo1.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3模板/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="app1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Flask_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +165,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/B站/one" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3模板" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B站/one/demo1.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3模板/app1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +179,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hello (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Flask_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,32 +187,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/after/Flask+Web/第三章/3.2使用Flask-Bootstrap" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQLstudy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/after/Flask+Web/第三章/3.2使用Flask-Bootstrap/hello.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Flask_study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/after/Flask+Web/第三章/3.4表单类" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/after/Flask+Web/第三章/3.4表单类/hello.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQLstudy/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Flask_WTF_demo" />
-        <item itemvalue="Python.demo1 (1)" />
-        <item itemvalue="Python.hello (1)" />
-        <item itemvalue="Python.hello" />
-        <item itemvalue="Python.demo1" />
+        <item itemvalue="Database Script.sql.sql" />
+        <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.app1" />
+        <item itemvalue="Python.app" />
       </list>
     </recent_temporary>
   </component>
@@ -188,8 +219,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606091043123</updated>
+      <workItem from="1606298276813" duration="835000" />
+      <workItem from="1606328185415" duration="7933000" />
+      <workItem from="1606381574075" duration="4425000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -204,25 +241,57 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="738" y="125" key="FileChooserDialogImpl" timestamp="1606091267201">
+    <state x="86" y="225" key="#SQL_Dialects" timestamp="1606383183589">
       <screen x="74" y="0" width="1292" height="768" />
     </state>
-    <state x="738" y="125" key="FileChooserDialogImpl/74.0.1292.768@74.0.1292.768" timestamp="1606091267201" />
-    <state width="1271" height="310" key="GridCell.Tab.0.bottom" timestamp="1606127729158">
+    <state x="86" y="225" key="#SQL_Dialects/74.0.1292.768@74.0.1292.768" timestamp="1606383183589" />
+    <state x="312" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606329737631">
       <screen x="74" y="0" width="1292" height="768" />
     </state>
-    <state width="1271" height="310" key="GridCell.Tab.0.bottom/74.0.1292.768@74.0.1292.768" timestamp="1606127729158" />
-    <state width="1271" height="310" key="GridCell.Tab.0.center" timestamp="1606127729158">
+    <state x="312" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/74.0.1292.768@74.0.1292.768" timestamp="1606329737631" />
+    <state x="839" y="188" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606330054136">
       <screen x="74" y="0" width="1292" height="768" />
     </state>
-    <state width="1271" height="310" key="GridCell.Tab.0.center/74.0.1292.768@74.0.1292.768" timestamp="1606127729158" />
-    <state width="1271" height="310" key="GridCell.Tab.0.left" timestamp="1606127729158">
+    <state x="839" y="188" key="#com.intellij.fileTypes.FileTypeChooser/74.0.1292.768@74.0.1292.768" timestamp="1606330054136" />
+    <state x="773" y="134" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606330674998">
       <screen x="74" y="0" width="1292" height="768" />
     </state>
-    <state width="1271" height="310" key="GridCell.Tab.0.left/74.0.1292.768@74.0.1292.768" timestamp="1606127729158" />
-    <state width="1271" height="310" key="GridCell.Tab.0.right" timestamp="1606127729158">
+    <state x="773" y="134" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/74.0.1292.768@74.0.1292.768" timestamp="1606330674998" />
+    <state x="445" y="124" key="FileChooserDialogImpl" timestamp="1606304763965">
       <screen x="74" y="0" width="1292" height="768" />
     </state>
-    <state width="1271" height="310" key="GridCell.Tab.0.right/74.0.1292.768@74.0.1292.768" timestamp="1606127729158" />
+    <state x="445" y="124" key="FileChooserDialogImpl/74.0.1292.768@74.0.1292.768" timestamp="1606304763965" />
+    <state width="602" height="162" key="GridCell.Tab.0.bottom" timestamp="1606382346320">
+      <screen x="74" y="0" width="1292" height="768" />
+    </state>
+    <state width="602" height="162" key="GridCell.Tab.0.bottom/74.0.1292.768@74.0.1292.768" timestamp="1606382346320" />
+    <state width="602" height="162" key="GridCell.Tab.0.center" timestamp="1606382346320">
+      <screen x="74" y="0" width="1292" height="768" />
+    </state>
+    <state width="602" height="162" key="GridCell.Tab.0.center/74.0.1292.768@74.0.1292.768" timestamp="1606382346320" />
+    <state width="602" height="162" key="GridCell.Tab.0.left" timestamp="1606382346320">
+      <screen x="74" y="0" width="1292" height="768" />
+    </state>
+    <state width="602" height="162" key="GridCell.Tab.0.left/74.0.1292.768@74.0.1292.768" timestamp="1606382346320" />
+    <state width="602" height="162" key="GridCell.Tab.0.right" timestamp="1606382346320">
+      <screen x="74" y="0" width="1292" height="768" />
+    </state>
+    <state width="602" height="162" key="GridCell.Tab.0.right/74.0.1292.768@74.0.1292.768" timestamp="1606382346320" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1606330994686">
+      <screen x="74" y="0" width="1292" height="768" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/74.0.1292.768@74.0.1292.768" timestamp="1606330994686" />
+    <state x="271" y="57" key="SettingsEditor" timestamp="1606328312687">
+      <screen x="74" y="0" width="1292" height="768" />
+    </state>
+    <state x="271" y="57" key="SettingsEditor/74.0.1292.768@74.0.1292.768" timestamp="1606328312687" />
+    <state x="694" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1606328996062">
+      <screen x="74" y="0" width="1292" height="768" />
+    </state>
+    <state x="694" y="89" width="672" height="678" key="search.everywhere.popup/74.0.1292.768@74.0.1292.768" timestamp="1606328996062" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Flask_study$test.coverage" NAME="test Coverage Results" MODIFIED="1606330159336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLstudy" />
+    <SUITE FILE_PATH="coverage/Flask_study$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1606382242172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQLstudy" />
   </component>
 </project>
